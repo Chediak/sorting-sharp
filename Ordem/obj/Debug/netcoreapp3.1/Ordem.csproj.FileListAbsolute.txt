@@ -1,0 +1,12 @@
+C:\Users\Tweenky\Desktop\Ordem\Ordem\bin\Debug\netcoreapp3.1\Ordem.exe
+C:\Users\Tweenky\Desktop\Ordem\Ordem\bin\Debug\netcoreapp3.1\Ordem.deps.json
+C:\Users\Tweenky\Desktop\Ordem\Ordem\bin\Debug\netcoreapp3.1\Ordem.runtimeconfig.json
+C:\Users\Tweenky\Desktop\Ordem\Ordem\bin\Debug\netcoreapp3.1\Ordem.runtimeconfig.dev.json
+C:\Users\Tweenky\Desktop\Ordem\Ordem\bin\Debug\netcoreapp3.1\Ordem.dll
+C:\Users\Tweenky\Desktop\Ordem\Ordem\bin\Debug\netcoreapp3.1\Ordem.pdb
+C:\Users\Tweenky\Desktop\Ordem\Ordem\obj\Debug\netcoreapp3.1\Ordem.csprojAssemblyReference.cache
+C:\Users\Tweenky\Desktop\Ordem\Ordem\obj\Debug\netcoreapp3.1\Ordem.AssemblyInfoInputs.cache
+C:\Users\Tweenky\Desktop\Ordem\Ordem\obj\Debug\netcoreapp3.1\Ordem.AssemblyInfo.cs
+C:\Users\Tweenky\Desktop\Ordem\Ordem\obj\Debug\netcoreapp3.1\Ordem.dll
+C:\Users\Tweenky\Desktop\Ordem\Ordem\obj\Debug\netcoreapp3.1\Ordem.pdb
+C:\Users\Tweenky\Desktop\Ordem\Ordem\obj\Debug\netcoreapp3.1\Ordem.genruntimeconfig.cache
