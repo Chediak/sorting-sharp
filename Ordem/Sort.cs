@@ -7,6 +7,28 @@ namespace Ordem
 {
     public class Sort
     {
+        public static int[] selectionSort(int[] vetor)
+        {
+            int min, aux;
+
+            for (int i = 0; i < vetor.Length - 1; i++)
+            {
+                min = i;
+
+                for (int j = i + 1; j < vetor.Length; j++)
+                    if (vetor[j] < vetor[min])
+                        min = j;
+
+                if (min != i)
+                {
+                    aux = vetor[min];
+                    vetor[min] = vetor[i];
+                    vetor[i] = aux;
+                }
+            }
+            return vetor;
+        }
+
         static int Partition(int[] arr, int left, int right)
         {
             int pivot;
@@ -80,10 +102,10 @@ namespace Ordem
             foreach (var n in externalNumbers)
                 externalParsed.Add(Convert.ToInt32(n));
 
-            externalParsed.Sort();
+            selectionSort(externalParsed.ToArray());
 
             externalSw.Stop();
-            Console.WriteLine($"Método 1 GenericSort (Externo). Tempo: {externalSw.ElapsedMilliseconds}ms");
+            Console.WriteLine($"Método 1 SelectionSort (Externo). Tempo: {externalSw.ElapsedMilliseconds}ms");
             #endregion
 
             #region Interno
@@ -97,10 +119,10 @@ namespace Ordem
             }
 
             internalSw.Start();
-            internalNumbers.Sort();
+            selectionSort(internalNumbers.ToArray());
             internalSw.Stop();
 
-            Console.WriteLine($"Método 1 GenericSort (Interno). Tempo: {internalSw.ElapsedMilliseconds}ms\n");
+            Console.WriteLine($"Método 1 SelectionSort (Interno). Tempo: {internalSw.ElapsedMilliseconds}ms\n");
             #endregion
         }
 

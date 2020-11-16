@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tweenky\\Desktop\\Ordem\\Ordem\\Ordem.csproj": {}
+    "C:\\Users\\Tweenky\\Desktop\\sorting-sharp\\Ordem\\Ordem.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tweenky\\Desktop\\Ordem\\Ordem\\Ordem.csproj": {
+    "C:\\Users\\Tweenky\\Desktop\\sorting-sharp\\Ordem\\Ordem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tweenky\\Desktop\\Ordem\\Ordem\\Ordem.csproj",
+        "projectUniqueName": "C:\\Users\\Tweenky\\Desktop\\sorting-sharp\\Ordem\\Ordem.csproj",
         "projectName": "Ordem",
-        "projectPath": "C:\\Users\\Tweenky\\Desktop\\Ordem\\Ordem\\Ordem.csproj",
+        "projectPath": "C:\\Users\\Tweenky\\Desktop\\sorting-sharp\\Ordem\\Ordem.csproj",
         "packagesPath": "C:\\Users\\Tweenky\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tweenky\\Desktop\\Ordem\\Ordem\\obj\\",
+        "outputPath": "C:\\Users\\Tweenky\\Desktop\\sorting-sharp\\Ordem\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Tweenky\\AppData\\Roaming\\NuGet\\NuGet.Config",
